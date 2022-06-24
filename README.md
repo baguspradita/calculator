@@ -1,1 +1,1 @@
-# calculator
+# company-profile
